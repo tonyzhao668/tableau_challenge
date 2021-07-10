@@ -66,5 +66,7 @@
 
 * 2 stories submitted, one for The Story of 04/21; one for the Defect Data Found;
 
+    ![Stories](images/citibikstory.PNG)
+
 * Within the Story of Defected Data Found, 3 data visualizations presented looks like the data's Birth Year column inaccurate,
     and the gender records were too rough with majority gender as unknown.
