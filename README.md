@@ -42,6 +42,8 @@
 
 * The Busiest hours in days of the month;
 
+    ![Hot Hours](images/busiesthours.PNG)
+
     The Busiest hours in the month were around 21:00 - 22:00;
 
 * The most often(times) used bike IDs;
