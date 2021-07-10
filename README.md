@@ -23,8 +23,6 @@
 * 12 discovered phenomena with the timespan of 04/2021.
 
 * The Popular Start trip Stations, both with maps and bar charts;
-
-    ![Popular Start Stations](images/popularstartstn.PNG)
     
     The Top 10 Popular Start/End stations are all near large transit and tourist
     hubs, including the stations near Central Park, Penn Station and the Port Authority, Pershing
@@ -32,6 +30,8 @@
     Start/End stations are in Brooklyn and Queens.
 
 * The Popular End trip Stations, both with maps and bar charts;
+
+   ![Popular End Stations](images/popularendstn.PNG) 
     
     The Top 10 popular End Stations as above.
 
