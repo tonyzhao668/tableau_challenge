@@ -48,6 +48,8 @@
 
 * The most often(times) used bike IDs;
 
+    ![Busiest IDs](images/busiestbikeid.PNG)
+
     The majority often used Bike IDs within the range of 34720 - 34900 and 47470 - 54800;
 
 * The longest trip duration used bike IDs; 
