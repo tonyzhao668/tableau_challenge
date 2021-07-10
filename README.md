@@ -6,6 +6,8 @@
     
     [BIKI_NYC](https://public.tableau.com/app/profile/tony.zhao2691/viz/BIKI_NYC/Map_PopularStartStations0421)
     
+    ![BIKI_NYC](images/biki_nyc.PNG)
+    
     * The text analysis report to be submitted via README at https://github.com/tonyzhao668/tableau_challenge;
     
     * The job has been down with one latest month data of 04/2021. Due to I have tested for one year or several months data, my laptop would       stagnant, or moving very very slow. Sorry for this.
@@ -31,6 +33,10 @@
 **Regarding:**
 
 * The Popular Start trip Stations, both with maps and bar charts;
+
+    
+    
+    
 
     The Top 10 Popular Start/End stations are all near large transit and tourist
     hubs, including the stations near Central Park, Penn Station and the Port Authority, Pershing
