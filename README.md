@@ -7,34 +7,23 @@
     [BIKI_NYC](https://public.tableau.com/app/profile/tony.zhao2691/viz/BIKI_NYC/Map_PopularStartStations0421)
     
     ![BIKI_NYC](images/biki_nyc.PNG)
-     
-    * The text analysis report to be submitted via README at https://github.com/tonyzhao668/tableau_challenge;
-    
-    * The job has been down with one latest month data of 04/2021. Due to I have tested for one year or several months data, my laptop would       stagnant, or moving very very slow. Sorry for this.
-    
-    * The task has been done as follows:
-        
-        * 4-10 Total "Phenomenon" Visualizations.
+  
+
+## Task details as follows:
+
+* The task has been done as follows:
+
+    * 4-10 Total "Phenomenon" Visualizations.
         * 3 Dashboards presented!
         * 2 City maps for Top popular start and end stations separately.
-        * Two stories presented, one for the story of CityBike 04/21, one for the abnormal data found. 
-        * A text with my analysis on the phenomenon uncovered from the data.
-        	
-    Details as follows: 
+        * Two stories presented, one for the story of CityBike 04/21, one for the abnormal data found.    
+        
+*The data selected is the latest one-month data of 04/2021 from https://www.citibikenyc.com/system-data.
 
-## Task
-
-**The data selected is the latest one-month data of 04/2021 from https://www.citibikenyc.com/system-data.**
-
-**12 discovered phenomena with the timespan of 04/2021.**
-
-**Regarding:**
+*12 discovered phenomena with the timespan of 04/2021.
 
 * The Popular Start trip Stations, both with maps and bar charts;
 
-    
-    
-    
 
     The Top 10 Popular Start/End stations are all near large transit and tourist
     hubs, including the stations near Central Park, Penn Station and the Port Authority, Pershing
