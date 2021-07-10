@@ -36,6 +36,7 @@
     The Top 10 popular End Stations as above.
 
 * The busiest dates in the month;
+    ![Hot Dates](images/busiestdates.PNG) 
 
     The busiest date in the month was 24/04/2021, with 101,586 trips recorded;
 
