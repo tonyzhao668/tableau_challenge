@@ -54,6 +54,8 @@
 
 * The longest trip duration used bike IDs; 
 
+    ![longest trip IDs](images/longesttripid.PNG)
+
     The longest trip duration used bike IDs less than 20 with sum trip duration more than 440hours in the month;
 
 * The User type breakdown in terms of trip counts;
