@@ -31,7 +31,7 @@
 
 * The Popular End trip Stations, both with maps and bar charts;
 
-   ![Popular End Stations](images/popularendstn.PNG) 
+   ![Popular End Stations](images/hotendstn.PNG) 
     
     The Top 10 popular End Stations as above.
 
