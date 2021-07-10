@@ -64,6 +64,8 @@
 
 * 3 Dashboards presented;
 
+    ![Dash Board](images/dashboard1.PNG)
+
 * 2 stories submitted, one for The Story of 04/21; one for the Defect Data Found;
 
     ![Stories](images/citibikstory.PNG)
