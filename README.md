@@ -1,33 +1,28 @@
+# Tableau - Citi Bike Analytics
 
-
-# Tableau Homework - Citi Bike Analytics
-
-Tony Zhao/DBCUWA finished on 10/05/2021
+## Tony Zhao finished on 10/05/2021
 
     * The Tableau link of the task is : https://public.tableau.com/profile/tony.zhao2691#!/vizhome/BIKI_NYC/MostPopularStartEndStations?          publish=yes
     
     * The text analysis report to be submitted via README at https://github.com/tonyzhao668/tableau_challenge;
     
-    * The big data processing capacity is a great challenge for normal laptop like mine;
-    
     * The job has been down with one latest month data of 04/2021. Due to I have tested for one year or several months data, my laptop would       stagnant, or moving very very slow. Sorry for this.
     
-    * Except the above, every requirement has been fulfilled and tested well.
+    * Except the above, everything has been fulfilled and tested well.
     
     * The task has been done as follows:
         
         * 4-10 Total "Phenomenon" Visualizations:  Done!
         * 2 Dashboards: Done! Actually 3 Dashboards submitted!
-        * 1 City Official Map: Done! Actually 2 City maps submitted for Top popular start and end stations separately.
-        * 1 Story : Done! Actually two stories submitted, one for the story of CityBike 04/21, one for the abnormal data found. 
-        * A text with my analysis on the phenomenon you uncovered from the data.
-        	Done!
+        * 1 City Official Map: Done! Actually 2 City maps for Top popular start and end stations separately.
+        * 1 Story : Done! Actually two stories presented, one for the story of CityBike 04/21, one for the abnormal data found. 
+        * A text with my analysis on the phenomenon uncovered from the data.
+        	
     Details as follows: 
-
 
 ## Task
 
-**My data selected is the latest one-month data of 04/2021 from https://www.citibikenyc.com/system-data.**
+**The data selected is the latest one-month data of 04/2021 from https://www.citibikenyc.com/system-data.**
 
 **12 discovered phenomena with the timespan of 04/2021.**
 
@@ -64,7 +59,7 @@ Tony Zhao/DBCUWA finished on 10/05/2021
 
     The majority riders were customers(>95%), rather than subscribers (<5%) in terms of trips proportion distribute.
 
-* 3 Dashboards submitted;
+* 3 Dashboards presented;
 
 * 2 stories submitted, one for The Story of 04/21; one for the Defect Data Found;
 
