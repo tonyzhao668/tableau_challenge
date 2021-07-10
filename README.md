@@ -2,24 +2,22 @@
 
 ## Tony Zhao finished on 10/05/2021
 
-    * The Tableau link of the task is : 
+* The Tableau link of the task is : 
     
     [BIKI_NYC](https://public.tableau.com/app/profile/tony.zhao2691/viz/BIKI_NYC/Map_PopularStartStations0421)
     
     ![BIKI_NYC](images/biki_nyc.PNG)
-    
+     
     * The text analysis report to be submitted via README at https://github.com/tonyzhao668/tableau_challenge;
     
     * The job has been down with one latest month data of 04/2021. Due to I have tested for one year or several months data, my laptop would       stagnant, or moving very very slow. Sorry for this.
     
-    * Except the above, everything has been fulfilled and tested well.
-    
     * The task has been done as follows:
         
-        * 4-10 Total "Phenomenon" Visualizations:  Done!
-        * 2 Dashboards: Done! Actually 3 Dashboards submitted!
-        * 1 City Official Map: Done! Actually 2 City maps for Top popular start and end stations separately.
-        * 1 Story : Done! Actually two stories presented, one for the story of CityBike 04/21, one for the abnormal data found. 
+        * 4-10 Total "Phenomenon" Visualizations.
+        * 3 Dashboards presented!
+        * 2 City maps for Top popular start and end stations separately.
+        * Two stories presented, one for the story of CityBike 04/21, one for the abnormal data found. 
         * A text with my analysis on the phenomenon uncovered from the data.
         	
     Details as follows: 
