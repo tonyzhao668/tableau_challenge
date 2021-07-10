@@ -2,7 +2,9 @@
 
 ## Tony Zhao finished on 10/05/2021
 
-    * The Tableau link of the task is : https://public.tableau.com/profile/tony.zhao2691#!/vizhome/BIKI_NYC/MostPopularStartEndStations?          publish=yes
+    * The Tableau link of the task is : 
+    
+    [BIKI_NYC](https://public.tableau.com/app/profile/tony.zhao2691/viz/BIKI_NYC/Map_PopularStartStations0421)
     
     * The text analysis report to be submitted via README at https://github.com/tonyzhao668/tableau_challenge;
     
